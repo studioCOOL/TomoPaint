@@ -1,7 +1,2 @@
-# PaintTool
-Paint Tool in Gamemaker Studio 2
-
-Tutorial Video Here
-https://youtu.be/mAao-ZtO1Sg
-
-Open Source, Do what you like with it.
+# TomoPaint
+TomoPaint 2 is an art tool made using GameMaker Studio. This is a new version of the old TomoPaint. It is designed to be easy to use, and to be user-friendly. It is based on the open-source PaintTool.
